@@ -4,3 +4,5 @@ ep
 tp
 kp
 np
+r
+lp
