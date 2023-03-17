@@ -22,3 +22,7 @@ r
 lp
 pp
 ep
+tp
+kp
+np
+r
